@@ -11,7 +11,7 @@
 ## 如何使用？
 
 ```bash
-dnpm i local-server-mock --save-dev
+npm i local-server-mock -D
 ```
 <strong>PS：</strong> 中间件内置了mockjs，支持mockjs写法
 
